@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/commerce/static/css/main.9e174790.chunk.css",
+    "main.js": "/commerce/static/js/main.132332b3.chunk.js",
+    "main.js.map": "/commerce/static/js/main.132332b3.chunk.js.map",
+    "runtime~main.js": "/commerce/static/js/runtime~main.d51b6905.js",
+    "runtime~main.js.map": "/commerce/static/js/runtime~main.d51b6905.js.map",
+    "static/js/2.056730a5.chunk.js": "/commerce/static/js/2.056730a5.chunk.js",
+    "static/js/2.056730a5.chunk.js.map": "/commerce/static/js/2.056730a5.chunk.js.map",
+    "index.html": "/commerce/index.html",
+    "precache-manifest.04e1cb5260ccbc20b27a97b23704cc04.js": "/commerce/precache-manifest.04e1cb5260ccbc20b27a97b23704cc04.js",
+    "service-worker.js": "/commerce/service-worker.js",
+    "static/css/main.9e174790.chunk.css.map": "/commerce/static/css/main.9e174790.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/commerce/static/media/crown.ed28accb.svg"
+  }
+}
