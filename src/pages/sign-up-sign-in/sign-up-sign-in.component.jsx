@@ -5,7 +5,7 @@ import Signup from "../../components/signup/signup.component";
 
 function SignInSignUp() {
     return (
-      <div>
+      <div className="sign-in-and-sign-up">
         <SignIn />
         <Signup />
       </div>
